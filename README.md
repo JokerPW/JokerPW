@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JokerPW
 - 👀 I’m interested in coding, data science, cyber-security, OSs and a lot of offline stuff. =]
-- 🌱 I’m currently learning (MBA) Data Science and Analytics
+- 🌱 I’m currently learning (MBA) Software Engineering
 - 💞️ I’m looking to collaborate on saving the world
 - 📫 How to reach me jokerpw@gmail.com
 
